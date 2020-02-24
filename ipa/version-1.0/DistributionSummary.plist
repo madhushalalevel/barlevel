@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Barlevel.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>5ADC316919DE6B8EB2C8BB012201B8DD4BA3A6F1</string>
+				<key>dateExpires</key>
+				<string>20/02/21</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>C7X4MYWC63.com.barlevel</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>C7X4MYWC63</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>C7X4MYWC63.com.barlevel</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Barlevel.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>6be42059-fd82-48df-a503-95927c2941cb</string>
+				<key>name</key>
+				<string>barlevel development</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>C7X4MYWC63</string>
+				<key>name</key>
+				<string>Rohan Bolar</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
